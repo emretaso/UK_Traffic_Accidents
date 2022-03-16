@@ -6,3 +6,5 @@ Note that all the contained accident data comes from police reports, so this dat
 
 
 #### Data : https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales
+
+![](/image/accident.jpg)
